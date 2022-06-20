@@ -1,3 +1,3 @@
 # KELP_CHALLNGE
-How to Run The App in CMD:
+How to Start The App:
 1. Run the KELP.exe file
